@@ -1,0 +1,8 @@
+# ninja log v5
+415	570	6910040390900651	untitled1.exe	1aa2fff88d81cb75
+0	386	6910050887442700	CMakeFiles/exclass.dir/main.cpp.obj	e3bc22f80010a5fb
+5	389	6910050887462646	CMakeFiles/exclass.dir/point.cpp.obj	765cbd262b8ff082
+13	115	6910057637364165	CMakeFiles/exclass.dir/circle.cpp.obj	7d97c12373fad970
+8	448	6910057640706028	CMakeFiles/exclass.dir/point.cpp.obj	765cbd262b8ff082
+18	449	6910057640706028	CMakeFiles/exclass.dir/main.cpp.obj	e3bc22f80010a5fb
+450	570	6910057641873858	exclass.exe	8f54901a5d473d60
